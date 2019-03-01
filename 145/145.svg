@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+</defs>
+<image preserveAspectRatio="none" x="47" y="113" width="497" height="67" xlink:href="img/1.png" />
+<image preserveAspectRatio="none" x="47" y="200" width="372" height="34" xlink:href="img/2.png" />
+<image preserveAspectRatio="none" x="47" y="252" width="532" height="67" xlink:href="img/3.png" />
+<image preserveAspectRatio="none" x="47" y="338" width="546" height="67" xlink:href="img/4.png" />
+<image preserveAspectRatio="none" x="47" y="423" width="373" height="67" xlink:href="img/5.png" />
+<image preserveAspectRatio="none" x="47" y="509" width="149" height="67" xlink:href="img/6.png" />
+<image preserveAspectRatio="none" x="47" y="594" width="149" height="74" xlink:href="img/7.png" />
+<image preserveAspectRatio="none" x="47" y="686" width="149" height="72" xlink:href="img/8.png" />
+<image preserveAspectRatio="none" x="47" y="776" width="97" height="106" xlink:href="img/9.png" />
+<g fill="#000000" >
+<use xlink:href="#f0_n" transform="matrix(12,0,0,12,835.7,1269.6)" />
+<use xlink:href="#f0_t" transform="matrix(12,0,0,12,844.9,1269.6)" />
+</g>
+<defs>
+<path d="M238,-17c0,0,-103,0,-139,25C99,8,62,33,62,62c0,0,0,22,17,38c0,0,18,16,42,16c0,0,19,0,38,-6c0,0,13,-3,58,-27c0,0,45,-23,62,-28c0,0,27,-8,59,-8c0,0,76,0,132,59c0,0,56,59,56,140c0,0,0,59,-26,115c0,0,-19,41,-42,63c0,0,-32,30,-88,54c0,0,-56,25,-114,25H232v22c0,0,59,8,118,42c0,0,59,35,86,85c0,0,27,49,27,108c0,0,0,76,-48,124c0,0,-48,47,-120,47c0,0,-116,0,-193,-124L77,819c0,0,44,102,110,158c0,0,66,56,164,56c0,0,122,0,187,-80c0,0,49,-58,49,-126c0,0,0,-110,-139,-228c0,0,93,-36,141,-104c0,0,48,-68,48,-160c0,0,0,-131,-84,-227C553,108,444,-17,238,-17Z" 
+id="f0_n"
+transform="scale(0.001,-0.001)" />
+
+<path d="M379,437c0,0,34,0,81,16c0,0,47,17,83,47c0,0,14,97,14,155c0,0,0,72,-25,156c0,0,-25,83,-70,128c0,0,-45,45,-103,45c0,0,-66,0,-116,-60c0,0,-50,-59,-50,-177c0,0,0,-157,66,-246c0,0,49,-64,120,-64ZM80,-20V7c0,0,97,1,181,45c0,0,83,44,161,153c0,0,78,109,109,240c0,0,-117,-75,-212,-75c0,0,-107,0,-183,82c0,0,-76,82,-76,219c0,0,0,132,76,236c0,0,92,126,240,126c0,0,124,0,213,-103c0,0,109,-128,109,-315c0,0,0,-169,-82,-314C616,301,533,155,385,59c0,0,-120,-79,-262,-79Z" 
+id="f0_t"
+transform="scale(0.001,-0.001)" />
+
+
+</defs>
+</svg>
